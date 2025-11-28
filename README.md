@@ -2,7 +2,7 @@
 
 ## 🚀 Über mich
 Ich bin **Software- und Webentwickler**, der sich leidenschaftlich für moderne Technologien und kreative Lösungen begeistert.  
-Im **September 2025** habe ich mein **Bachelorstudium in Informatik an der Hochschule Emden/Leer** erfolgreich abgeschlossen und bin jetzt aktiv **auf der Suche nach spannenden Jobmöglichkeiten**.
+Im **September 2025** habe ich mein **Bachelorstudium in Informatik an der [Hochschule Emden/Leer](https://www.hs-emden-leer.de/)** erfolgreich abgeschlossen und bin jetzt aktiv **auf der Suche nach spannenden Jobmöglichkeiten**.
 
 Parallel dazu arbeite ich an **privaten Projekten**, um neue Technologien auszuprobieren, praktische Erfahrung zu sammeln und meine Fähigkeiten kontinuierlich zu erweitern.
 
