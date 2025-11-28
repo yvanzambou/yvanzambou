@@ -36,6 +36,7 @@ Parallel dazu arbeite ich an **privaten Projekten**, um neue Technologien auszup
 - Spring Boot  
 - Git & GitHub  
 - Docker (Grundkenntnisse)
+- Eclipse IDE, IntelliJ, VS Code
 
 ---
 
