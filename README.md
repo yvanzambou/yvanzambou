@@ -10,7 +10,7 @@ Parallel dazu arbeite ich an **privaten Projekten**, um neue Technologien auszup
 
 ## 🎓 Werdegang
 - 🎓 **Bachelor in Informatik**, Hochschule Emden/Leer (Abschluss: **September 2025**)  
-- 💼 **Softwareentwickler (Praktikant)** bei *MDSI IT Solutions GmbH*  
+- 💼 **Softwareentwickler (Praktikant)** bei *[MDSI IT Solutions GmbH](https://mdsi.de/)*  
   - Dauer: **3 Monate**  
   - Tätigkeiten: Mitarbeit an Entwicklungsaufgaben, praktische Einblicke in professionelle Softwareentwicklung, Arbeiten im Team und an realen Kundenprojekten  
 - 🧪 Aufbau weiterer Praxis durch **eigene Software- und Webprojekte**
