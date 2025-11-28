@@ -1,6 +1,6 @@
 # 👋 Hi, ich bin Yvan Zambou!
 
-## 🚀 Über mich
+## 👨‍💻 Über mich
 Ich bin **Software- und Webentwickler**, der sich leidenschaftlich für moderne Technologien und kreative Lösungen begeistert.  
 Im **September 2025** habe ich mein **Bachelorstudium in Informatik an der [Hochschule Emden/Leer](https://www.hs-emden-leer.de/)** erfolgreich abgeschlossen und bin jetzt aktiv **auf der Suche nach spannenden Jobmöglichkeiten**.
 
