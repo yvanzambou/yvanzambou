@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, ich bin Yvan Zambou!
 
-<!--
-**yvanzambou/yvanzambou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Über mich
+Ich bin **Software- und Webentwickler**, der sich leidenschaftlich für moderne Technologien und kreative Lösungen begeistert.  
+Im **September 2025** habe ich mein **Bachelorstudium in Informatik an der Hochschule Emden/Leer** erfolgreich abgeschlossen und bin jetzt aktiv **auf der Suche nach spannenden Jobmöglichkeiten**.
 
-Here are some ideas to get you started:
+Parallel dazu arbeite ich an **privaten Projekten**, um neue Technologien auszuprobieren, praktische Erfahrung zu sammeln und meine Fähigkeiten kontinuierlich zu erweitern.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Werdegang
+- 🎓 **Bachelor in Informatik**, Hochschule Emden/Leer (Abschluss: **September 2025**)  
+- 💼 **Softwareentwickler (Praktikant)** bei *MDSI IT Solutions GmbH*  
+  - Dauer: **3 Monate**  
+  - Tätigkeiten: Mitarbeit an Entwicklungsaufgaben, praktische Einblicke in professionelle Softwareentwicklung, Arbeiten im Team und an realen Kundenprojekten  
+- 🧪 Aufbau weiterer Praxis durch **eigene Software- und Webprojekte**
+- 🌱 Aktuelle Lernschwerpunkte:
+  - moderne Webentwicklung  
+  - API-Design  
+  - Clean Code & Best Practices  
+  - neue Frameworks und Tools
+
+---
+
+## 🧠 Technologien & Skills
+### 🔹 Programmiersprachen
+- JavaScript  
+- Python  
+- Java/Jakarta EE  
+- HTML, CSS, SQL  
+
+### 🔹 Frameworks & Tools
+- React
+- Bootstrap
+- Node.js  
+- Spring Boot  
+- Git & GitHub  
+- Docker (Grundkenntnisse)
+
+---
+
+## 📫 Kontakt
+- ✉️ Email: *tsamozambou.yvanloic@yahoo.fr*  
+- 💼 LinkedIn: *www.linkedin.com/in/yvan-zambou-29aba9261*  
+
+---
+
+Danke, dass du mein Profil besuchst! 😊  
+Ich freue mich über Austausch, Feedback und berufliche Möglichkeiten.
