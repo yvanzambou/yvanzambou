@@ -26,11 +26,13 @@ Parallel dazu arbeite ich an **privaten Projekten**, um neue Technologien auszup
 ### 🔹 Programmiersprachen
 - JavaScript  
 - Python  
-- Java/Jakarta EE  
+- Java/Jakarta EE
+- PHP
 - HTML, CSS, SQL  
 
 ### 🔹 Frameworks & Tools
 - React
+- Symfony
 - Bootstrap
 - Node.js  
 - Spring Boot  
