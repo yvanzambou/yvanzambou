@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin Yvan Zambou!
+# 👋 Hi, ich bin [Yvan Zambou](https://yvan-zambou.netlify.app)!
 
 ## 👨‍💻 Über mich
 Ich bin **Software- und Webentwickler**, der sich leidenschaftlich für moderne Technologien und kreative Lösungen begeistert.  
@@ -49,4 +49,5 @@ Parallel dazu arbeite ich an **privaten Projekten**, um neue Technologien auszup
 ---
 
 Danke, dass du mein Profil besuchst! 😊  
+Portfolio: https://yvan-zambou.netlify.app
 Ich freue mich über Austausch, Feedback und berufliche Möglichkeiten.
