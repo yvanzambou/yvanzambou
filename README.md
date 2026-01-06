@@ -43,11 +43,11 @@ Parallel dazu arbeite ich an **privaten Projekten**, um neue Technologien auszup
 ---
 
 ## 📫 Kontakt
+- 🚀 Portfolio: https://yvan-zambou.netlify.app  
 - ✉️ Email: *tsamozambou.yvanloic@yahoo.fr*  
 - 💼 LinkedIn: *www.linkedin.com/in/yvan-zambou-29aba9261*  
 
 ---
 
 Danke, dass du mein Profil besuchst! 😊  
-Portfolio: https://yvan-zambou.netlify.app
 Ich freue mich über Austausch, Feedback und berufliche Möglichkeiten.
